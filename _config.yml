@@ -1,0 +1,22 @@
+title: "Plot Function"
+description: "Math resources for all"
+
+color_scheme: "light"
+remote_theme: pmarsceill/just-the-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+# ga_tracking:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - CREDITS
+  - CNAME
+  - README.md
+  - Dockerfile
+
