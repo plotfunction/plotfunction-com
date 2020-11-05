@@ -20,3 +20,14 @@ $$
 $$
 {% include_relative constants.tex %}
 $$
+
+## Proofs
+
+$$
+    \begin{array}{c|l}
+        \text{Character or symbol} & \LaTeX \\
+        \implies & \text{\implies} \\
+        \forall & \text{\forall} \\
+        \exists & \text{\exists} \\
+    \end{array}
+$$
