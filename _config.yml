@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
-# ga_tracking:
+ga_tracking: UA-124239437-1
 
 exclude:
   - Gemfile
