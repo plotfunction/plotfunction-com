@@ -7,7 +7,7 @@ WORKDIR /var/www/html
 COPY Gemfile* ./
 RUN bundle install
 
-CMD bundle exec jekyll serve --host 0.0.0.0 --port 8000
+CMD bundle exec jekyll serve --host 0.0.0.0 --port 8000 --incremental
 
 EXPOSE 8000
 
