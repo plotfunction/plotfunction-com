@@ -4,5 +4,5 @@ title: Game Development
 parent: Coding
 ---
 
-* [Video Game Math website](http://gamemath.com/)
+* [The use of mathematics in computer games](https://nrich.maths.org/1374)
 

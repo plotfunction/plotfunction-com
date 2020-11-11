@@ -12,6 +12,5 @@ title: Calculators
 
 # Computer Algebra Systems (CAS) online
 
-* [Maxima Online](http://maxima-online.org/)
 * [Maxima Online, provided by Cesga](http://maxima.cesga.es/)
 
